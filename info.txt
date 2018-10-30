@@ -1,0 +1,5 @@
+### INFO ###
+
+This is a project under development to create a snake game for a Linux Terminal.
+
+The project is unfinished but a working version is already available.
